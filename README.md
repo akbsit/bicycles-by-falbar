@@ -16,19 +16,19 @@
 
 ## Скрины
 
-![optimizatsiya-koda](http://falbar.ru/storage/images/2018/01/optimizatsiya-koda.jpg)
+![screenshot-1](https://ps.w.org/bicycles-by-falbar/assets/screenshot-1.jpg)
 
-![dubli-stranits](http://falbar.ru/storage/images/2018/01/dubli-stranits.jpg)
+![screenshot-2](https://ps.w.org/bicycles-by-falbar/assets/screenshot-2.jpg)
 
-![seo](http://falbar.ru/storage/images/2018/01/seo.jpg)
+![screenshot-3](https://ps.w.org/bicycles-by-falbar/assets/screenshot-3.jpg)
 
-![vidzhety](http://falbar.ru/storage/images/2018/01/vidzhety.jpg)
+![screenshot-4](https://ps.w.org/bicycles-by-falbar/assets/screenshot-4.jpg)
 
-![kommentarii](http://falbar.ru/storage/images/2018/01/kommentarii.jpg)
+![screenshot-5](https://ps.w.org/bicycles-by-falbar/assets/screenshot-5.jpg)
 
-![zashhita](http://falbar.ru/storage/images/2018/01/zashhita.jpg)
+![screenshot-6](https://ps.w.org/bicycles-by-falbar/assets/screenshot-6.jpg)
 
-![dopolnitelno](http://falbar.ru/storage/images/2018/01/dopolnitelno.jpg)
+![screenshot-7](https://ps.w.org/bicycles-by-falbar/assets/screenshot-7.jpg)
 
 # Статьи
 
