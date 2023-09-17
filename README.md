@@ -1,20 +1,20 @@
 # [bicycles-by-falbar](https://wordpress.org/plugins/bicycles-by-falbar/)
 
-## Велосипеды
+## Bicycles
 
-В большинстве случаев настройка и оптимизация сайта на движке WordPress состоит из набора
-всем известных "велосипедов" и шаблонов добавляемого кода, которые повторяются из проекта в проект.
-Цель этого плагина собрать все решения в одном месте для комфортного старта или работы с CMS.
+In most cases, setting up and optimizing a website on the WordPress engine consists of a set of
+well-known "bicycles" and patterns of added code that are repeated from project to project.
+The purpose of this plugin is to collect all solutions in one place for a comfortable start or work with the CMS.
 
-## Что умеет плагин Bicycles by falbar
+## What the Bicycles by falbar plugin can do
 
-1. Удаляет лишний код и оптимизирует его;
-2. Удаляет дубли страниц и устанавливает редиректы;
-3. Улучшает SEO на сайте;
-4. Отключает ненужные виджеты;
-5. Усиливает защиту вашего сайта.
+1. Removes unnecessary code and optimizes it;
+2. Removes duplicate pages and installs redirects;
+3. Improves SEO on the site;
+4. Disables unnecessary widgets;
+5. Strengthens the protection of your site.
 
-## Скрины
+## Screenshots
 
 ![screenshot-1](https://ps.w.org/bicycles-by-falbar/assets/screenshot-1.jpg)
 
@@ -29,8 +29,3 @@
 ![screenshot-6](https://ps.w.org/bicycles-by-falbar/assets/screenshot-6.jpg)
 
 ![screenshot-7](https://ps.w.org/bicycles-by-falbar/assets/screenshot-7.jpg)
-
-# Статьи
-
-* [Bicycles by falbar 2 - Оптимизация WordPress сайта](http://falbar.ru/article/bicycles-by-falbar-2-optimizatsiya-wordpress-sajta)
-* [Множество WordPress «велосипедов» в одном плагине Bicycles by falbar](http://falbar.ru/article/mnozhestvo-wordpress-velosipedov-v-odnom-plagine-bicycles-by-falbar)
